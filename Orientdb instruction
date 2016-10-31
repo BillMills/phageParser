@@ -1,0 +1,20 @@
+Note this is just a proof of concept for using Orientdb an NoSQL graph database for this project.
+
+VirtualBox and Vagrant are required for this. The latest packages are found in the following URL:
+https://www.virtualbox.org/wiki/Downloads
+https://www.vagrantup.com/downloads.html
+
+After installing VirtualBox and Vagrant, using command prompt or Powershell, go to Vagrant location ("\phageParser\vagrant\") and just run "vagrant up".(If the Vagrant box does not download automatically, then run the command "vagrant box add ubuntu/trusty64") This will create a VM with Orientdb and RabbitMQ to the IP address 192.168.56.8.
+
+After the VM has been booted up, go into the "\phageParser\database" location. Run the following python files in order:
+create_database.py
+rabbit_receive.py (this creates a persistent RabbitMQ connection that writes into the OrientDB database, so leave this script running)
+data_entry.py
+
+Python package required:
+pika
+pyorient
+
+After all data has been entered, you can go to the Orientdb UI by navigating to http://192.168.56.8:2480/ and authenticate using the username root and password rootpwd. You can then see related spacers by going to the "Graph" tab and search using "traverse * from #13:0".
+
+Please contact "jialutu@gmail.com" if unsure.
