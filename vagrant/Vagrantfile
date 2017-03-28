@@ -1,0 +1,24 @@
+
+Vagrant.configure("2") do |config|
+  servers = { 'phageParser' => '192.168.56.8'
+            }
+  
+  servers.each do |server_name, server_ip|
+    config.vm.define server_name do |app_config|
+
+      # network config
+      app_config.vm.hostname = "#{server_name.to_s}"
+      app_config.vm.network "private_network", ip: "#{server_ip}"
+  
+	  app_config.vm.box = "ubuntu/trusty64"
+	  app_config.vm.provision :shell, path: "bootstrap.sh"
+	  # config.vm.network :forwarded_port, guest: 3000, host: 8000 # this to be used if port forwarding is required
+  
+      # below is used if you would require any additional memory or CPUs compared to the 
+	  app_config.vm.provider :virtualbox do |vb|
+		vb.customize ['modifyvm', :id, '--memory', '2048'] # indicates to add the required RAM to the virtual environment
+		vb.cpus = 2 # CPUs to be added
+	  end
+	end
+  end
+end

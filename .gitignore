@@ -8,3 +8,5 @@ pep8_report.txt
 
 # front-end dependencies
 visualization/components/
+
+/vagrant/.vagrant/*
