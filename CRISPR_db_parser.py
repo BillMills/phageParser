@@ -9,12 +9,19 @@ This script takes a list of spacers downloaded from the CRISPRdb website and spl
 
 import linecache
 import os
+import sys
 
 # CRISPR db parser
 # MB Mar 07 2015
 
-filename = "data/spacerdatabase.txt" # File from CRISPRdb to sort 
-spacer_db = open("%s" %(filename),"r") 
+try:
+    filename = sys.argv[1]  # read the file from the argument provided while running the program
+    spacer_db = open("%s" %(filename),"r") 
+except:
+    filename = "data/spacerdatabase.txt" # File from CRISPRdb to sort, default data in case the argument path is not found or not provided 
+    spacer_db = open("%s" %(filename),"r") 
+    pass
+
 
 # check if directory for saving exists
 directory = "data/spacers"
