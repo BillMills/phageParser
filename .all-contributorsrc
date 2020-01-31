@@ -1,0 +1,24 @@
+{
+  "projectName": "phageParser",
+  "projectOwner": "nataliyah123",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "mbonsma",
+      "name": "Madeleine Bonsma-Fisher",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5651370?v=4",
+      "profile": "http://madeleinebonsma.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
