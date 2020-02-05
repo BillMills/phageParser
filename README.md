@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -191,6 +191,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://twitter.com/jpistorius"><img src="https://avatars3.githubusercontent.com/u/742633?v=4" width="100px;" alt=""/><br /><sub><b>Julian Pistorius</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=julianpistorius" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://joelostblom.com"><img src="https://avatars0.githubusercontent.com/u/4560057?v=4" width="100px;" alt=""/><br /><sub><b>Joel Ostblom</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=joelostblom" title="Code">💻</a></td>
   </tr>
 </table>
 

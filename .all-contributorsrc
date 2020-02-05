@@ -280,6 +280,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "joelostblom",
+      "name": "Joel Ostblom",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4560057?v=4",
+      "profile": "http://joelostblom.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
