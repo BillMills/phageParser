@@ -49,6 +49,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "lwgray",
+      "name": "Larry Gray",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1000117?v=4",
+      "profile": "https://lwgray.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
