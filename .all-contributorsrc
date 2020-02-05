@@ -127,6 +127,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "natchar",
+      "name": "Natchar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5606873?v=4",
+      "profile": "https://github.com/natchar",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
