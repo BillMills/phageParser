@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -167,6 +167,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://goo.gl/IlWG8U"><img src="https://avatars3.githubusercontent.com/u/500?v=4" width="100px;" alt=""/><br /><sub><b>Juan Julián Merelo Guervós</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=JJ" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3AJJ" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/BillMills"><img src="https://avatars2.githubusercontent.com/u/1896943?v=4" width="100px;" alt=""/><br /><sub><b>Bill Mills</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=BillMills" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=BillMills" title="Documentation">📖</a></td>
     <td align="center"><a href="https://kinoshita.eti.br"><img src="https://avatars1.githubusercontent.com/u/304786?v=4" width="100px;" alt=""/><br /><sub><b>Bruno P. Kinoshita</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=kinow" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=kinow" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/morrme"><img src="https://avatars2.githubusercontent.com/u/26514778?v=4" width="100px;" alt=""/><br /><sub><b>morrme</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=morrme" title="Code">💻</a></td>
   </tr>
 </table>
 
