@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -182,6 +182,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sina-sed"><img src="https://avatars2.githubusercontent.com/u/15185166?v=4" width="100px;" alt=""/><br /><sub><b>sina-sed</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=sina-sed" title="Code">💻</a></td>
+    <td align="center"><a href="http://codepen.io/darwinhang"><img src="https://avatars1.githubusercontent.com/u/2671518?v=4" width="100px;" alt=""/><br /><sub><b>Darwin Hang</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=darwinhang" title="Code">💻</a></td>
   </tr>
 </table>
 
