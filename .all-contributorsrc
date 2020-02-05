@@ -108,6 +108,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "kinow",
+      "name": "Bruno P. Kinoshita",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/304786?v=4",
+      "profile": "https://kinoshita.eti.br",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
