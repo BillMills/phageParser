@@ -316,6 +316,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "brian-bot",
+      "name": "Brian M. Bot",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1254693?v=4",
+      "profile": "https://brian-bot.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7

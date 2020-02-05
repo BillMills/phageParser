@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -195,6 +195,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://jasonjmcghee.github.com"><img src="https://avatars3.githubusercontent.com/u/1522149?v=4" width="100px;" alt=""/><br /><sub><b>Jason McGhee</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=jasonjmcghee" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/firesock"><img src="https://avatars2.githubusercontent.com/u/2768982?v=4" width="100px;" alt=""/><br /><sub><b>Awad Mackie</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=firesock" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/dnuka"><img src="https://avatars3.githubusercontent.com/u/42544330?v=4" width="100px;" alt=""/><br /><sub><b>Dhanuka</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=dnuka" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://brian-bot.github.io/"><img src="https://avatars1.githubusercontent.com/u/1254693?v=4" width="100px;" alt=""/><br /><sub><b>Brian M. Bot</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=brian-bot" title="Documentation">📖</a></td>
   </tr>
 </table>
 
