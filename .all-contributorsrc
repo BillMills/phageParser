@@ -271,6 +271,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "julianpistorius",
+      "name": "Julian Pistorius",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/742633?v=4",
+      "profile": "https://twitter.com/jpistorius",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
