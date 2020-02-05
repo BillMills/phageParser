@@ -18,6 +18,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aays",
+      "name": "Ahmed Hasan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19255608?v=4",
+      "profile": "https://github.com/aays",
+      "contributions": [
+        "code",
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
