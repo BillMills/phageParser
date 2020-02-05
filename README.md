@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -157,6 +157,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://madeleinebonsma.com"><img src="https://avatars2.githubusercontent.com/u/5651370?v=4" width="100px;" alt=""/><br /><sub><b>Madeleine Bonsma-Fisher</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=mbonsma" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aays"><img src="https://avatars3.githubusercontent.com/u/19255608?v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Hasan</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=aays" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Aaays" title="Bug reports">🐛</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=aays" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/cemyld"><img src="https://avatars0.githubusercontent.com/u/6137137?v=4" width="100px;" alt=""/><br /><sub><b>Cem Yildirim</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=cemyld" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Acemyld" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://qulogic.gitlab.io/"><img src="https://avatars2.githubusercontent.com/u/302469?v=4" width="100px;" alt=""/><br /><sub><b>Elliott Sales de Andrade</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=QuLogic" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=QuLogic" title="Documentation">📖</a></td>
   </tr>
 </table>
 
