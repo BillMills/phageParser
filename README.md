@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -185,6 +185,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://codepen.io/darwinhang"><img src="https://avatars1.githubusercontent.com/u/2671518?v=4" width="100px;" alt=""/><br /><sub><b>Darwin Hang</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=darwinhang" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/shaniphankar"><img src="https://avatars2.githubusercontent.com/u/13625063?v=4" width="100px;" alt=""/><br /><sub><b>shaniphankar</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=shaniphankar" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/neaGaze"><img src="https://avatars0.githubusercontent.com/u/1320600?v=4" width="100px;" alt=""/><br /><sub><b>Nigesh Shakya</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=neaGaze" title="Code">💻</a></td>
+    <td align="center"><a href="https://moijes12.github.io/"><img src="https://avatars0.githubusercontent.com/u/4566851?v=4" width="100px;" alt=""/><br /><sub><b>Alex</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=moijes12" title="Documentation">📖</a></td>
   </tr>
 </table>
 
