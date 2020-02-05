@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -161,6 +161,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://lwgray.github.io"><img src="https://avatars2.githubusercontent.com/u/1000117?v=4" width="100px;" alt=""/><br /><sub><b>Larry Gray</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=lwgray" title="Code">💻</a></td>
     <td align="center"><a href="https://stackoverflow.com/story/delirious-lettuce"><img src="https://avatars3.githubusercontent.com/u/24502053?v=4" width="100px;" alt=""/><br /><sub><b>~</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Adelirious-lettuce" title="Bug reports">🐛</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=delirious-lettuce" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nicolanrizzo"><img src="https://avatars2.githubusercontent.com/u/5024332?v=4" width="100px;" alt=""/><br /><sub><b>Nicola Rizzo</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=nicolanrizzo" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Anicolanrizzo" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://code.v.igoro.us/"><img src="https://avatars3.githubusercontent.com/u/28673?v=4" width="100px;" alt=""/><br /><sub><b>Dustin J. Mitchell</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=djmitche" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Adjmitche" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 

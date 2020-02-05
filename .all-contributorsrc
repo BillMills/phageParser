@@ -78,6 +78,16 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "djmitche",
+      "name": "Dustin J. Mitchell",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28673?v=4",
+      "profile": "http://code.v.igoro.us/",
+      "contributions": [
+        "code",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
