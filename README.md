@@ -1,4 +1,7 @@
 phageParser
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
 phageParser is a project to extract and organize CRISPR information from open genetic data.
@@ -142,3 +145,64 @@ containing [`requirements.txt`](requirements.txt), activate the project environm
 `pip install -r requirements.txt`
 
 For viewing the database, we recommend the [Firefox SQLite Manager plugin](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/). Once installed, launch it from the 'Tools' menu in Firefox. 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://madeleinebonsma.com"><img src="https://avatars2.githubusercontent.com/u/5651370?v=4" width="100px;" alt=""/><br /><sub><b>Madeleine Bonsma-Fisher</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=mbonsma" title="Code">💻</a><a href="https://github.com/nataliyah123/phageParser/commits?author=mbonsma" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/aays"><img src="https://avatars3.githubusercontent.com/u/19255608?v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Hasan</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=aays" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Aaays" title="Bug reports">🐛</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=aays" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/cemyld"><img src="https://avatars0.githubusercontent.com/u/6137137?v=4" width="100px;" alt=""/><br /><sub><b>Cem Yildirim</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=cemyld" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Acemyld" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://qulogic.gitlab.io/"><img src="https://avatars2.githubusercontent.com/u/302469?v=4" width="100px;" alt=""/><br /><sub><b>Elliott Sales de Andrade</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=QuLogic" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=QuLogic" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://lwgray.github.io"><img src="https://avatars2.githubusercontent.com/u/1000117?v=4" width="100px;" alt=""/><br /><sub><b>Larry Gray</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=lwgray" title="Code">💻</a></td>
+    <td align="center"><a href="https://stackoverflow.com/story/delirious-lettuce"><img src="https://avatars3.githubusercontent.com/u/24502053?v=4" width="100px;" alt=""/><br /><sub><b>~</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Adelirious-lettuce" title="Bug reports">🐛</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=delirious-lettuce" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nicolanrizzo"><img src="https://avatars2.githubusercontent.com/u/5024332?v=4" width="100px;" alt=""/><br /><sub><b>Nicola Rizzo</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=nicolanrizzo" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Anicolanrizzo" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://code.v.igoro.us/"><img src="https://avatars3.githubusercontent.com/u/28673?v=4" width="100px;" alt=""/><br /><sub><b>Dustin J. Mitchell</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=djmitche" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3Adjmitche" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://goo.gl/IlWG8U"><img src="https://avatars3.githubusercontent.com/u/500?v=4" width="100px;" alt=""/><br /><sub><b>Juan Julián Merelo Guervós</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=JJ" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/issues?q=author%3AJJ" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/BillMills"><img src="https://avatars2.githubusercontent.com/u/1896943?v=4" width="100px;" alt=""/><br /><sub><b>Bill Mills</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=BillMills" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=BillMills" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://kinoshita.eti.br"><img src="https://avatars1.githubusercontent.com/u/304786?v=4" width="100px;" alt=""/><br /><sub><b>Bruno P. Kinoshita</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=kinow" title="Code">💻</a> <a href="https://github.com/nataliyah123/phageParser/commits?author=kinow" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/morrme"><img src="https://avatars2.githubusercontent.com/u/26514778?v=4" width="100px;" alt=""/><br /><sub><b>morrme</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=morrme" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/natchar"><img src="https://avatars2.githubusercontent.com/u/5606873?v=4" width="100px;" alt=""/><br /><sub><b>Natchar</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=natchar" title="Code">💻</a></td>
+    <td align="center"><a href="http://davemoffat.com"><img src="https://avatars3.githubusercontent.com/u/4165324?v=4" width="100px;" alt=""/><br /><sub><b>djmoffat</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=djmoffat" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://ca.linkedin.com/in/wenxinchen11"><img src="https://avatars0.githubusercontent.com/u/9545461?v=4" width="100px;" alt=""/><br /><sub><b>Winston Chen</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=WxnChen11" title="Code">💻</a></td>
+    <td align="center"><a href="http://daisieirishuang.com"><img src="https://avatars0.githubusercontent.com/u/1827728?v=4" width="100px;" alt=""/><br /><sub><b>Daisie Huang</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=daisieh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/linamnt"><img src="https://avatars1.githubusercontent.com/u/10761918?v=4" width="100px;" alt=""/><br /><sub><b>Lina Tran</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=linamnt" title="Code">💻</a></td>
+    <td align="center"><a href="http://wgma.ca"><img src="https://avatars2.githubusercontent.com/u/5634714?v=4" width="100px;" alt=""/><br /><sub><b>William Granados</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=wlgranados" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/souravsingh"><img src="https://avatars3.githubusercontent.com/u/4314261?v=4" width="100px;" alt=""/><br /><sub><b>Sourav Singh</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=souravsingh" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://shirishgoyal.github.io"><img src="https://avatars2.githubusercontent.com/u/315012?v=4" width="100px;" alt=""/><br /><sub><b>Shirish Goyal</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=shirishgoyal" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/thisisjaid"><img src="https://avatars3.githubusercontent.com/u/22080288?v=4" width="100px;" alt=""/><br /><sub><b>Alex E</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=thisisjaid" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sina-sed"><img src="https://avatars2.githubusercontent.com/u/15185166?v=4" width="100px;" alt=""/><br /><sub><b>sina-sed</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=sina-sed" title="Code">💻</a></td>
+    <td align="center"><a href="http://codepen.io/darwinhang"><img src="https://avatars1.githubusercontent.com/u/2671518?v=4" width="100px;" alt=""/><br /><sub><b>Darwin Hang</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=darwinhang" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shaniphankar"><img src="https://avatars2.githubusercontent.com/u/13625063?v=4" width="100px;" alt=""/><br /><sub><b>shaniphankar</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=shaniphankar" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/neaGaze"><img src="https://avatars0.githubusercontent.com/u/1320600?v=4" width="100px;" alt=""/><br /><sub><b>Nigesh Shakya</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=neaGaze" title="Code">💻</a></td>
+    <td align="center"><a href="https://moijes12.github.io/"><img src="https://avatars0.githubusercontent.com/u/4566851?v=4" width="100px;" alt=""/><br /><sub><b>Alex</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=moijes12" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/lpix"><img src="https://avatars3.githubusercontent.com/u/16929101?v=4" width="100px;" alt=""/><br /><sub><b>Leslie </b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=lpix" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kevinwucodes"><img src="https://avatars0.githubusercontent.com/u/1930629?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Wu</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=kevinwucodes" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://twitter.com/jpistorius"><img src="https://avatars3.githubusercontent.com/u/742633?v=4" width="100px;" alt=""/><br /><sub><b>Julian Pistorius</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=julianpistorius" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://joelostblom.com"><img src="https://avatars0.githubusercontent.com/u/4560057?v=4" width="100px;" alt=""/><br /><sub><b>Joel Ostblom</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=joelostblom" title="Code">💻</a></td>
+    <td align="center"><a href="http://jasonjmcghee.github.com"><img src="https://avatars3.githubusercontent.com/u/1522149?v=4" width="100px;" alt=""/><br /><sub><b>Jason McGhee</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=jasonjmcghee" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/firesock"><img src="https://avatars2.githubusercontent.com/u/2768982?v=4" width="100px;" alt=""/><br /><sub><b>Awad Mackie</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=firesock" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dnuka"><img src="https://avatars3.githubusercontent.com/u/42544330?v=4" width="100px;" alt=""/><br /><sub><b>Dhanuka</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=dnuka" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://brian-bot.github.io/"><img src="https://avatars1.githubusercontent.com/u/1254693?v=4" width="100px;" alt=""/><br /><sub><b>Brian M. Bot</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=brian-bot" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
