@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -178,6 +178,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://wgma.ca"><img src="https://avatars2.githubusercontent.com/u/5634714?v=4" width="100px;" alt=""/><br /><sub><b>William Granados</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=wlgranados" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/souravsingh"><img src="https://avatars3.githubusercontent.com/u/4314261?v=4" width="100px;" alt=""/><br /><sub><b>Sourav Singh</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=souravsingh" title="Documentation">📖</a></td>
     <td align="center"><a href="http://shirishgoyal.github.io"><img src="https://avatars2.githubusercontent.com/u/315012?v=4" width="100px;" alt=""/><br /><sub><b>Shirish Goyal</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=shirishgoyal" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/thisisjaid"><img src="https://avatars3.githubusercontent.com/u/22080288?v=4" width="100px;" alt=""/><br /><sub><b>Alex E</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=thisisjaid" title="Code">💻</a></td>
   </tr>
 </table>
 
