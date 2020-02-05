@@ -235,6 +235,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "neaGaze",
+      "name": "Nigesh Shakya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1320600?v=4",
+      "profile": "https://github.com/neaGaze",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
