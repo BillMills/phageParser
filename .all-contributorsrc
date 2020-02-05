@@ -190,6 +190,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "shirishgoyal",
+      "name": "Shirish Goyal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/315012?v=4",
+      "profile": "http://shirishgoyal.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
