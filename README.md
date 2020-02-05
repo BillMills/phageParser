@@ -1,6 +1,6 @@
 phageParser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ===========
 
@@ -170,6 +170,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/morrme"><img src="https://avatars2.githubusercontent.com/u/26514778?v=4" width="100px;" alt=""/><br /><sub><b>morrme</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=morrme" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/natchar"><img src="https://avatars2.githubusercontent.com/u/5606873?v=4" width="100px;" alt=""/><br /><sub><b>Natchar</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=natchar" title="Code">💻</a></td>
     <td align="center"><a href="http://davemoffat.com"><img src="https://avatars3.githubusercontent.com/u/4165324?v=4" width="100px;" alt=""/><br /><sub><b>djmoffat</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=djmoffat" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://ca.linkedin.com/in/wenxinchen11"><img src="https://avatars0.githubusercontent.com/u/9545461?v=4" width="100px;" alt=""/><br /><sub><b>Winston Chen</b></sub></a><br /><a href="https://github.com/nataliyah123/phageParser/commits?author=WxnChen11" title="Code">💻</a></td>
   </tr>
 </table>
 
