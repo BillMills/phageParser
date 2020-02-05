@@ -98,6 +98,16 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "BillMills",
+      "name": "Bill Mills",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1896943?v=4",
+      "profile": "https://github.com/BillMills",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
